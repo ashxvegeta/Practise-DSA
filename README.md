@@ -1,3 +1,2 @@
-# Practise-DSA <br>
-thi
+# Practise-DSA
 
