@@ -5,7 +5,7 @@ public class leapYear {
         
         Scanner sc = new Scanner(System.in);
         int year = sc.nextInt();
-
+//if devided by 4 and not by 100 then leap year and if  devided by 100 and 400 the leap year
         if (year%4==0) {
             
             if (year%100==0) {
