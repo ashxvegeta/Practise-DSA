@@ -8,4 +8,6 @@ public class findTheoutput {
 
         }
     }
+
+    //output will be 2
 }
