@@ -1,6 +1,12 @@
 public class zero_one_traingle_pattern {
     
 
+    //1
+    //0 1
+    //1 0 1
+    //0 1 0 1
+    //1 0 1 0 1
+
     public static void zero_one_pattern(int n) {
         
         for (int i = 1; i <=n; i++) {
