@@ -1,6 +1,12 @@
 public class floyed_triangle {
     
 
+    //1
+    //1 2
+    //1 2 3
+    //1 2 3 4
+    //1 2 3 4 5
+
     public static void floyed_triangle_pattern(int n) {
         
         int  counter =1;
