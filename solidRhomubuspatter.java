@@ -1,6 +1,12 @@
 public class solidRhomubuspatter {
     
 
+//      *  *  *  *  * 
+//     *  *  *  *  *  
+//    *  *  *  *  *   
+//   *  *  *  *  *    
+//  *  *  *  *  *    
+
     public static void solidRhombus(int n){
 
         for(int i=1;i<=n;i++){
