@@ -1,5 +1,11 @@
 public class hollowRombous {
     
+//      *****
+//     *   *
+//    *   *
+//   *   *
+//  *****
+
 
     public static void hollowrombs(int n){
 
