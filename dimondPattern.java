@@ -1,6 +1,16 @@
 public class dimondPattern {
     
 
+//      *
+//     ***
+//    *****
+//   *******
+//   *******
+//    *****
+//     ***
+//      *
+
+
     public static void dimond(int n) {
         
         for (int i = 1; i <=n; i++) {
@@ -17,7 +27,7 @@ public class dimondPattern {
         }
 
         //now create the mirror imgae of above pattern run the for loop in reverse so that will start from n to 1
-        
+
         for (int i = n; i>=1; i--) {
             
             //for spaces
