@@ -1,6 +1,12 @@
 public class palindromic_pattern_numbsers {
     
     
+//      1    
+//     212   
+//    32123  
+//   4321234 
+//  543212345
+
     public static void palindromicpattern(int n) {
         
         //no of rowa
