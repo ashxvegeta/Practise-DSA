@@ -4,13 +4,11 @@ public class dd {
     public static void main(String[] args) {
    
       
-        int counter =1;
-        do {
+        int a = 4;
+        int b = 30;
 
-            System.out.println("heelo");
-            counter++;
-            
-        } while (counter <= 10);
+
+        System.out.println(Math.abs(b));
      
 
     }

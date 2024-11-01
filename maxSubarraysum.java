@@ -16,11 +16,11 @@ public class maxSubarraysum {
                 if(maxsum < currentsum){
                     maxsum = currentsum;
                 }
-               
+                System.out.println();
             }
             System.out.println();
         }
-        System.out.print("the maxmimun subarray sum is "+maxsum);
+        System.out.print("the maxmimun subaary sum is `"+maxsum);
     }
     public static void main(String[] args){
         int numbers[] = {2,4,6,8,10};
