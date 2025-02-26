@@ -20,11 +20,11 @@ class Pen{
    private int tip;
 
    String getColor(){
-       return color;
+       return  this.color;
     }
 
     int getTip(){
-        return tip;
+        return  tip;
     }
 
     void setColor(String newColor){
