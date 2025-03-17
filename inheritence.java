@@ -11,7 +11,9 @@ public class inheritence{
 // base class
 class Animal{
 
-    String color;
+    // property
+
+    String color; 
 
     void eat(){
         System.out.println("eating process");
@@ -24,7 +26,7 @@ class Animal{
 
 // derived class
 class fish extends Animal{
-
+  // property
     int fins;
 
     void swim(){
