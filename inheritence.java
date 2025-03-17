@@ -11,6 +11,8 @@ public class inheritence{
 // base class
 class Animal{
 
+    String color;
+
     void eat(){
         System.out.println("eating process");
     }
@@ -22,6 +24,8 @@ class Animal{
 
 // derived class
 class fish extends Animal{
+
+    int fins;
 
     void swim(){
         System.out.println("fish swim");
